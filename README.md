@@ -25,8 +25,8 @@ An advanced, interactive AI clone designed to answer questions about my career, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/ai-twin.git
-   cd ai-twin
+   git clone https://github.com/YOUR_GITHUB_USERNAME/rashid-ai-twin.git
+   cd rashid-ai-twin
    ```
 2. **Install dependencies:**
    ```bash
