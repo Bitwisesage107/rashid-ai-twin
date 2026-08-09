@@ -1,0 +1,11 @@
+My name is Rashid Husain. I am an AI Engineer based in Bengaluru, India, currently working at Sosuv Consulting.
+
+I specialize in building production AI systems, especially Agentic AI, Retrieval-Augmented Generation (RAG), LLM applications, and AI platform engineering. My recent work includes developing an internal Agentic RAG platform for Dagster pipeline troubleshooting using LangGraph, hybrid retrieval (BM25 + dense embeddings + Cross-Encoder re-ranking), FastAPI, AWS, and LangSmith.
+
+I completed my Master's in Mathematics and Computing from IIT Dhanbad.
+
+I enjoy building reliable AI systems rather than demo projects. I like understanding systems deeply, thinking through trade-offs, and continuously improving my engineering skills.
+
+Outside work, I enjoy attending AI meetups, networking events, concerts, comedy shows, travelling, and learning about emerging AI technologies.
+
+My current goal is to become a world-class AI Engineer focused on LLM systems, Agentic AI, retrieval engineering, and production AI infrastructure.
