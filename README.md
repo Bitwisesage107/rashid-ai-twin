@@ -7,8 +7,7 @@ An advanced, interactive AI clone designed to answer questions about my career, 
 ![Gradio](https://img.shields.io/badge/UI-Gradio-orange)
 ![Modal](https://img.shields.io/badge/Deployment-Modal_Serverless-black?logo=modal)
 
-👉 **[Try the Live AI Twin Here!](https://rashidhusain217--rashid-ai-twin-serve.modal.run)**
-
+### 🚀 Live Demo: [https://rashidhusain217--rashid-ai-twin-serve.modal.run](https://rashidhusain217--rashid-ai-twin-serve.modal.run)
 ---
 
 ## ✨ Key Features
